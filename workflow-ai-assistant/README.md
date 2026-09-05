@@ -27,7 +27,7 @@ Create a .env file in the backend folder:
 GEMINI_API_KEY=your_api_key_here
 GEMINI_MODEL=gemini-2.5-flash
 
-# Frontend
+### Frontend
 cd frontend
 npm install
 Run the App
